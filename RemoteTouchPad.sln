@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteTouchPad", "RemoteTouchPad\RemoteTouchPad.csproj", "{8514DBDB-CB06-4FAE-A180-FFBE773E537B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RemoteTouchPadSetup", "RemoteTouchPadSetup\RemoteTouchPadSetup.vdproj", "{EB34C83E-11DA-44B0-8CD4-528833F8F2F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8514DBDB-CB06-4FAE-A180-FFBE773E537B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8514DBDB-CB06-4FAE-A180-FFBE773E537B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8514DBDB-CB06-4FAE-A180-FFBE773E537B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8514DBDB-CB06-4FAE-A180-FFBE773E537B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB34C83E-11DA-44B0-8CD4-528833F8F2F7}.Debug|Any CPU.ActiveCfg = Debug
+		{EB34C83E-11DA-44B0-8CD4-528833F8F2F7}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56AB0A42-342B-4274-8529-37F4FF6503EB}
+	EndGlobalSection
+EndGlobal
